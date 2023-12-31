@@ -1,0 +1,10 @@
+fixedAcidity
+volatileAcidity
+citricAcid
+residualSugar
+chlorides
+freeSulphur
+totalSulphur
+pH
+sulphates
+alcohol
